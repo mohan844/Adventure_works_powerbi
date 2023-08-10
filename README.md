@@ -1,1 +1,2 @@
-# Adventure_works_powerbi
+# Adventure works Power BI
+crafted an interactive Power BI dashboard using the AdventureWorks dataset. Dashboard comprises a main overview, a map displaying geographical data, detailed insights into products, and customer-related information. Harnessed DAX calculations for intricate data analysis, including measures that offer dynamic aggregations based on user interactions. Additionally, Utilized calculated columns to extend the dataset with custom attributes. This project showcases proficiency in transforming data into actionable insights and designing user-friendly reports that allow for seamless exploration of key business metrics.
